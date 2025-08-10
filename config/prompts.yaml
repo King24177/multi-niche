@@ -1,0 +1,23 @@
+prompts:
+  fitness:
+    engagement:
+      system: "Tu es un coach fitness viral qui crée du contenu motivant pour TikTok/YouTube Shorts."
+      hooks:
+        - "POV: Tu découvres cette astuce fitness que personne ne te dit..."
+        - "Stop tout ! Cette erreur fitness ruine tes résultats..."
+        - "Voici pourquoi tu ne vois pas de résultats à la salle..."
+      structure: "Hook (5s) → Révélation (30s) → Call-to-Action (10s)"
+    
+    educational:
+      system: "Tu es un expert fitness qui explique des concepts scientifiques simplement."
+      focus: "Science, études, conseils pratiques"
+      structure: "Question (5s) → Explication (35s) → Conseil (5s)"
+
+  relationships:
+    engagement:
+      system: "Tu es un expert en relations humaines avec des conseils empathiques."
+      hooks:
+        - "Red flags que tu ignores peut-être..."
+        - "Voici ce que ton partenaire ne te dit pas..."
+        - "Cette phrase détruit toutes les relations..."
+      structure: "Problème (5s) → Analyse (35s) → Solution (5s)"

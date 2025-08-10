@@ -1,0 +1,102 @@
+niches:
+  fitness:
+    subreddits:
+      - "fitness"
+      - "bodybuilding"
+      - "nutrition"
+      - "loseit"
+      - "gainit"
+    keywords:
+      - "workout"
+      - "diet"
+      - "muscle"
+      - "cardio"
+      - "protein"
+    tone: "motivational"
+    target_duration: 45
+    posting_schedule: "daily"
+    platforms:
+      - "youtube"
+      - "tiktok"
+    collection:
+      limit: 50
+      min_score: 100
+      timeframe: "day"
+
+  relationships:
+    subreddits:
+      - "relationships"
+      - "dating_advice"
+      - "AmItheAsshole"
+      - "relationship_advice"
+    keywords:
+      - "relationship"
+      - "dating"
+      - "love"
+      - "advice"
+      - "breakup"
+    tone: "empathetic"
+    target_duration: 60
+    posting_schedule: "twice_daily"
+    platforms:
+      - "youtube"
+      - "tiktok"
+
+  technology:
+    subreddits:
+      - "technology"
+      - "gadgets"
+      - "apple"
+      - "android"
+      - "programming"
+    keywords:
+      - "tech"
+      - "innovation"
+      - "AI"
+      - "software"
+      - "hardware"
+    tone: "informative"
+    target_duration: 50
+    posting_schedule: "daily"
+    platforms:
+      - "youtube"
+      - "tiktok"
+
+  finance:
+    subreddits:
+      - "personalfinance"
+      - "investing"
+      - "stocks"
+      - "cryptocurrency"
+      - "financialindependence"
+    keywords:
+      - "money"
+      - "invest"
+      - "savings"
+      - "budget"
+      - "crypto"
+    tone: "professional"
+    target_duration: 55
+    posting_schedule: "daily"
+    platforms:
+      - "youtube"
+      - "tiktok"
+
+  productivity:
+    subreddits:
+      - "productivity"
+      - "getmotivated"
+      - "studytips"
+      - "entrepreneur"
+    keywords:
+      - "productivity"
+      - "habits"
+      - "success"
+      - "goals"
+      - "motivation"
+    tone: "inspiring"
+    target_duration: 45
+    posting_schedule: "daily"
+    platforms:
+      - "youtube"
+      - "tiktok"
